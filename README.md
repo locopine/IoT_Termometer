@@ -34,3 +34,5 @@ Smartphone config:
   7. Define a name of the tile and in subscribe topic, insert the topic of the code, example "lab/temp";
   8. Repeat this proccess for add topic of humidity.
   9. Fine, revise your settings of MQTT broker and topics names and enjoy!
+
+Follow me: Twitter - @srg_lc 
