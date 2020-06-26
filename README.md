@@ -11,7 +11,7 @@ Circuit description:
   1 - Connect DHT VCC in 3v3 of NODEMCU;
   2 - DHT GND in GND of NODEMCU;
   3 - DHT data signal in D3 port of NODEMCU (if use other port, change the code);
-  [image](http://[![iot-termometer-circuit.jpg](https://i.postimg.cc/PrbbXv5H/iot-termometer-circuit.jpg)](https://postimg.cc/rKmRgm4Z))
+  [![iot-termometer-circuit.jpg](https://i.postimg.cc/PrbbXv5H/iot-termometer-circuit.jpg)](https://postimg.cc/rKmRgm4Z)
 
 Code changes:
   1 - Change the SSID and password of the wifi network;
