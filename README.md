@@ -7,6 +7,11 @@ Components useds in this project:
   - 3x Jumpers;
   - Smartphone Android.
 
+Libraries:
+  - DHT11;
+  - PubSubClient;
+  All present in the Arduino library manager
+
 Circuit description: 
   1 - Connect DHT VCC in 3v3 of NODEMCU;
   2 - DHT GND in GND of NODEMCU;
