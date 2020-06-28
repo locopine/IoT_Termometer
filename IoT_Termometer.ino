@@ -19,8 +19,8 @@ DHT dht(DHTPIN, DHTTYPE); // declares the DHT object
 int t,h;
 
 //Wifi area
-const char* ssid = "IEEE 802.11"; // Set here SSID of your wifi network
-const char* password = "EAEA939308"; // Password of your wifi network
+const char* ssid = "Nunes"; // Set here SSID of your wifi network
+const char* password = "bia11079"; // Password of your wifi network
 const char* mqtt_broker = "mqtt.eclipse.org"; // Change for your MQTT Broker prefered
 WiFiClient nodemcuClient;
 PubSubClient client(nodemcuClient);
